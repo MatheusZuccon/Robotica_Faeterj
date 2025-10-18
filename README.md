@@ -3,7 +3,7 @@
 Script para nosso robo seguidor de linha em Arduino
 Equipe SIRLAB Faeterj-Petropolis
 
-![Imagem do WhatsApp de 2025-10-18 à(s) 16 56 27_74e7c388](https://github.com/user-attachments/assets/fe5a60c3-b6d0-4006-8eb7-a86971bdc678)
+![Imagem do WhatsApp de 2025-10-18 à(s) 16 57 52_e691dc87](https://github.com/user-attachments/assets/2f5716fb-38fc-4f06-86f2-32eb539ab092)
 
 
 
